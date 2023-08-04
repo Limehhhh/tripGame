@@ -1,0 +1,60 @@
+{"frames": {
+
+"button.png":
+{
+	"frame": {"x":260,"y":0,"w":658,"h":445},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":658,"h":445},
+	"sourceSize": {"w":658,"h":445}
+},
+"cute.png":
+{
+	"frame": {"x":356,"y":445,"w":500,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":500},
+	"sourceSize": {"w":500,"h":500}
+},
+"fist.png":
+{
+	"frame": {"x":500,"y":945,"w":500,"h":661},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":661},
+	"sourceSize": {"w":500,"h":661}
+},
+"girl.png":
+{
+	"frame": {"x":0,"y":0,"w":260,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":300},
+	"sourceSize": {"w":260,"h":300}
+},
+"master.png":
+{
+	"frame": {"x":0,"y":445,"w":356,"h":499},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":499},
+	"sourceSize": {"w":356,"h":499}
+},
+"purple.png":
+{
+	"frame": {"x":0,"y":945,"w":500,"h":573},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":573},
+	"sourceSize": {"w":500,"h":573}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "main.png",
+	"format": "RGBA8888",
+	"size": {"w":1000,"h":1606},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b33648e200e84f60baf01388e21f5660:42bac97eaed489f3eb4c9fe54fd5cdc3:03f91ab73e0f4667800419161e658c40$"
+}
+}
